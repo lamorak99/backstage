@@ -1,5 +1,13 @@
 # @backstage/plugin-tech-insights
 
+## 0.1.4
+
+### Patch Changes
+
+- 96fb10fe25: remove unnecessary http request when running all checks
+- Updated dependencies
+  - @backstage/plugin-catalog-react@0.6.10
+
 ## 0.1.3
 
 ### Patch Changes

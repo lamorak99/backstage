@@ -1,5 +1,11 @@
 # @backstage/plugin-catalog-react
 
+## 0.6.10
+
+### Patch Changes
+
+- fe2a6532ff: Add Override Components for Components in @backstage/plugin-catalog-react
+
 ## 0.6.9
 
 ### Patch Changes
